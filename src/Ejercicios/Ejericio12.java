@@ -10,6 +10,7 @@ public class Ejericio12 {
         var seconds = sc.nextDouble();
 
         conversion(seconds);
+        sc.close();
             }
         
             private static void conversion(double seconds) {
